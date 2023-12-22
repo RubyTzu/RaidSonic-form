@@ -38,4 +38,4 @@
 
 ## demo Website 
 
-[github page](https://rubytzu.github.io/RaidSonic-form/)
+[github page](https://rubytzu.github.io/RaidSonic-form)
