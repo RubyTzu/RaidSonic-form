@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RaidSonic-form/static/css/main.b2c0640e.css",
+    "main.js": "/RaidSonic-form/static/js/main.ea3e423f.js",
+    "static/js/787.f06358f2.chunk.js": "/RaidSonic-form/static/js/787.f06358f2.chunk.js",
+    "index.html": "/RaidSonic-form/index.html",
+    "main.b2c0640e.css.map": "/RaidSonic-form/static/css/main.b2c0640e.css.map",
+    "main.ea3e423f.js.map": "/RaidSonic-form/static/js/main.ea3e423f.js.map",
+    "787.f06358f2.chunk.js.map": "/RaidSonic-form/static/js/787.f06358f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2c0640e.css",
+    "static/js/main.ea3e423f.js"
+  ]
+}
