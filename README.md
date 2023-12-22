@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# 愛伯達前端面試
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- **目標** 根據 `Spec` 改寫成最好的解決方案，我使用ReactJS來改寫。
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Project Preview
 
-### `npm start`
+![image](./public/images/CoverPhoto.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Spec
 
-### `npm test`
+1. 數據整合：
+    - 使用 Ajax 來獲取數據，可以視情況選擇使用的工具。
+    - 處理非同步數據載入及錯誤狀況。
+2. 搜尋功能：
+    - 實作一個搜尋輸入框。
+    - 根據輸入即時過濾結果。
+3. 顯示結果：
+    - 展示與輸入匹配的結果。
+    - 考量空白和無匹配結果時的使用者體驗。
+4. 使用者介面：
+    - 有需要可以利用所選框架的元件和樣式系統。
+    - 確保介面美觀、響應式及易於使用。
+5. 程式碼組織：
+    - 清晰的元件劃分與邏輯封裝。
+    - 遵循框架推薦的最佳實踐和程式碼風格。
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 評估標準
+- 功能的完整性與正確性。
+- 程式碼品質與組織性。
+- 使用者介面設計與體驗。
+- 對框架特性和最佳實踐的理解與運用。
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## demo Website 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[github page](https://rubytzu.github.io/RaidSonic-form/)
